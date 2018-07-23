@@ -1,0 +1,31 @@
+label{
+    color: whitesmoke;
+}
+input,select{
+    width: 156PX;
+    height: 37PX;
+    border-radius: 8PX;
+}
+#saveb{
+    background-color: #bf7733;
+    width:35%;
+}
+#contib{
+    background-color: #38aecd;
+    width:35%;
+}
+textarea{
+    border-radius: 8PX;
+}
+legend{
+    border-bottom: none;
+}
+.jumbotron {
+     padding-top: none;
+     padding-bottom: none;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+     padding-top: none;
+     padding-bottom: none;
+}
